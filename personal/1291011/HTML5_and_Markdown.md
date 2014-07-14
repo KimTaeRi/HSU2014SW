@@ -48,7 +48,7 @@ MarkDown의 개발자 John Gruber는 MarkDown 문법의 최우선 목적을 **�
 
 ###*어디에 쓰이는가?*
 
-MarkDown은 온라인 문서나 일반 텍스트 문서를 편집할 때 쓰이고 있으며, [Tumblr](https://www.tumblr.com/), [GitHub](http://www.github.com/) 등의 사이트에서도 사용되고 있다. MarkDown으로 작성된 문서는 쉽게 다른 문서 형태로 변환이 가능하기 때문에 많은 곳에서 유용하게 사용할 수 있다.
+MarkDown은 **온라인 문서나 일반 텍스트 문서를 편집할 때** 쓰이고 있으며, [Tumblr](https://www.tumblr.com/), [GitHub](http://www.github.com/) 등의 사이트에서도 사용되고 있다. MarkDown으로 작성된 문서는 쉽게 다른 문서 형태로 변환이 가능하기 때문에 많은 곳에서 유용하게 사용할 수 있다.
 
 >출처 및 참고
 
